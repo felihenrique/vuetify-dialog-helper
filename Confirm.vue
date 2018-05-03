@@ -32,7 +32,6 @@ export default {
       }
   },
   destroyed() {
-    console.log(this.$el)
      document.body.removeChild(this.$el)
   }
 }
