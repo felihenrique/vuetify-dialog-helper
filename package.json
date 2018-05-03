@@ -1,0 +1,30 @@
+{
+  "name": "vuetify-dialog-helper",
+  "version": "0.0.1",
+  "description": "Utilities for working with dialogs in vuetify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felihenrique/vuetify-dialog-helper.git"
+  },
+  "keywords": [
+    "vue",
+    "vuetify",
+    "dialog",
+    "helper",
+    "javascript"
+  ],
+  "author": "philipe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felihenrique/vuetify-dialog-helper/issues"
+  },
+  "homepage": "https://github.com/felihenrique/vuetify-dialog-helper#readme",
+  "dependencies": {
+    "vuetify": "^1.0.17",
+    "vue": "^2.5.16"
+  }
+}
